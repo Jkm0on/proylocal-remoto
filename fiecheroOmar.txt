@@ -1,1 +1,3 @@
 console.log("Arriba Nicaragua carajo");
+console.log("Arriba Ecuador carajo")
+
